@@ -1,0 +1,7 @@
+pandas
+tensorflow
+numpy
+tqdm
+keras
+transformers
+tf-keras
